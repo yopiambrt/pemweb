@@ -44,7 +44,7 @@
 
       <a href="index.html" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="">
-        <span>SIMAPRO</span>
+        <span>FlexStart</span>
       </a>
 
       <nav id="navbar" class="navbar">
